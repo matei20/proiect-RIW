@@ -1,0 +1,23 @@
+{
+  "name": "proiect-riw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matei20/proiect-RIW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matei20/proiect-RIW/issues"
+  },
+  "homepage": "https://github.com/matei20/proiect-RIW#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-snowball": "^0.4.0"
+  }
+}

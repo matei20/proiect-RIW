@@ -1,0 +1,2476 @@
+[
+    {
+        "term": "5",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "90",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "168",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "1950",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "1960",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "1962",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "2010",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "polu",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "atmosfer",
+        "docs": {
+            "files/input/file1.html": 7
+        }
+    },
+    {
+        "term": "dăun",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "sănătăț",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "uman",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "med",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "europ",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "emis",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "multor",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "poluanț",
+        "docs": {
+            "files/input/file1.html": 7
+        }
+    },
+    {
+        "term": "scăzut",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "substanțial",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "ultim",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "decen",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "determin",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "îmbunătăț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "calităț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "aer",
+        "docs": {
+            "files/input/file1.html": 7
+        }
+    },
+    {
+        "term": "regiun",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "toat",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "concentraț",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "continu",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "foart",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "mar",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "problem",
+        "docs": {
+            "files/input/file1.html": 2,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "legat",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "calitat",
+        "docs": {
+            "files/input/file1.html": 4
+        }
+    },
+    {
+        "term": "persist",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "proporț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "semnific",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "populaț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "europe",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "locuieșt",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "zon",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "special",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "oraș",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "apar",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "depășir",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "standard",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "ozon",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "dioxid",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "azot",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "pulber",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "suspens",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "pm",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "induc",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "riscur",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "grav",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "sănăt",
+        "docs": {
+            "files/input/file1.html": 3
+        }
+    },
+    {
+        "term": "țăr",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "depăș",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "limit",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "patru",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "importanț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "reduc",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "poluăr",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "rămân",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "așadar",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "import",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "nivel",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "local",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "paneuropean",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "emisfere",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "emiș",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "într",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "țar",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "pot",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "transportaț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "contribu",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "ducând",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "sol",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "recunoscuț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "prezent",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "drept",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "tre",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1,
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "car",
+        "docs": {
+            "files/input/file1.html": 3,
+            "files/input/file2.html": 2,
+            "files/input/file3.html": 5
+        }
+    },
+    {
+        "term": "afect",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "expuner",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "termen",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "lung",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "maxim",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "aceșt",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "variaz",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "gravitat",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "impact",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "efect",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "minor",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "asupr",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "sist",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "respir",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "pân",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "deces",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "prematur",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "aproxim",
+        "docs": {
+            "files/input/file1.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "locuit",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "expuș",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "pest",
+        "docs": {
+            "files/input/file1.html": 2
+        }
+    },
+    {
+        "term": "nivelur",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "consider",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "dăunat",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "exemplu",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "fin",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "pm2",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "speranț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "viaț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "ue",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "opt",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "lun",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "benzopiren",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "poluant",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "cancerigen",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "îngrijor",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "urban",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "central",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "est",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "prag",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "stabil",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "protecț",
+        "docs": {
+            "files/input/file1.html": 1
+        }
+    },
+    {
+        "term": "istor",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "internet",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "încep",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "odat",
+        "docs": {
+            "files/input/file2.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "dezvolt",
+        "docs": {
+            "files/input/file2.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "timpur",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "calcul",
+        "docs": {
+            "files/input/file2.html": 3
+        }
+    },
+    {
+        "term": "rețel",
+        "docs": {
+            "files/input/file2.html": 2
+        }
+    },
+    {
+        "term": "comunicaț",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "poat",
+        "docs": {
+            "files/input/file2.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "împărț",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "etap",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "ide",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "une",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "reț",
+        "docs": {
+            "files/input/file2.html": 3
+        }
+    },
+    {
+        "term": "destin",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "permit",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "comunic",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "general",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "între",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "utiliz",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "aflaț",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "difer",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "depins",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "evoluț",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "tehnolog",
+        "docs": {
+            "files/input/file2.html": 2
+        }
+    },
+    {
+        "term": "fuziun",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "infrastructur",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "sistem",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "existent",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "telecomunicaț",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "prim",
+        "docs": {
+            "files/input/file2.html": 1,
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "descrier",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "document",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "despr",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "interacțiun",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "social",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "apăr",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "crear",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "networking",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "conțin",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "ser",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "not",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "scri",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "j",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "c",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "r",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "licklider",
+        "docs": {
+            "files/input/file2.html": 2
+        }
+    },
+    {
+        "term": "instit",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "massachusetts",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "august",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "discut",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "concept",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "galact",
+        "docs": {
+            "files/input/file2.html": 2
+        }
+    },
+    {
+        "term": "network",
+        "docs": {
+            "files/input/file2.html": 1
+        }
+    },
+    {
+        "term": "muzic",
+        "docs": {
+            "files/input/file3.html": 7
+        }
+    },
+    {
+        "term": "stiint",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "sunet",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "reprezint",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "limb",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "universal",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "pliaz",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "perfect",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "sim",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "uri",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "om",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "umplând",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "i",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "ploai",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "golor",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "suflet",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "având",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "fac",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "însemnat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "vesnic",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "esential",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "pastrat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "claritat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "mint",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "puter",
+        "docs": {
+            "files/input/file3.html": 4
+        }
+    },
+    {
+        "term": "urias",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "inalt",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "corup",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "folos",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "slujb",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "binel",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "raul",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "supun",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "fir",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "aspre",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "necultiv",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "invior",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "gand",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "trez",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "simpat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "contrib",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "armon",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "actiun",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "alung",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "intrist",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "ace",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "prevestir",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "distrug",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "curaj",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "slab",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "efort",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "educat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "p",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "original",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "arat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "melod",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "sfint",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "incep",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "zidir",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "negres",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "erau",
+        "docs": {
+            "files/input/file3.html": 1,
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "infin",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "sfer",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "misc",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "spat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "produc",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "linist",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "natur",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "valur",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "frunz",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "lanur",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "grau",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "sugereaz",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "intrucatv",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "caracter",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "acele",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "stapan",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "eden",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "far",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "rimt",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "acceptiun",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "modern",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "cuvant",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "cant",
+        "docs": {
+            "files/input/file3.html": 5
+        }
+    },
+    {
+        "term": "unison",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "ave",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "centru",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "tonal",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "manier",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "aceast",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "durat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "cinc",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "mii",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "ani",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "precis",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "pan",
+        "docs": {
+            "files/input/file3.html": 1,
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "sfarsit",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "mileniu",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "crestin",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "cult",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "aparit",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "dou",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "voc",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "cvint",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "cvart",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "octav",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "paral",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "form",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "atribu",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "calugar",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "hucbald",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "precum",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "guido",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "d",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "arezzo",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "doi",
+        "docs": {
+            "files/input/file3.html": 1,
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "fiind",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "notat",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "tehnic",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "coral",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "apo",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "sec",
+        "docs": {
+            "files/input/file3.html": 2
+        }
+    },
+    {
+        "term": "xi",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "xii",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "tert",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "sext",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "curent",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "num",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "faux",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "bourdon",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "primit",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "armoniz",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "xiv",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "arta",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "contrapunct",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "regul",
+        "docs": {
+            "files/input/file3.html": 1
+        }
+    },
+    {
+        "term": "vitor",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "lipan",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "ingrijor",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "sot",
+        "docs": {
+            "files/input/folder1/file4.html": 4
+        }
+    },
+    {
+        "term": "nechifor",
+        "docs": {
+            "files/input/folder1/file4.html": 3
+        }
+    },
+    {
+        "term": "intarz",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "pre",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "dorn",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "plec",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "dup",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "oi",
+        "docs": {
+            "files/input/folder1/file4.html": 3
+        }
+    },
+    {
+        "term": "cer",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "sfat",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "preot",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "babe",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "marand",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "vrajit",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "sat",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "nemultum",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "presupuner",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "acestor",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "pleac",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "caut",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "duc",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "fiic",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "minodor",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "manast",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "vin",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "seroag",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "sfant",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "ana",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "s",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "ajut",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "drum",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "comand",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "fiul",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "gheorghit",
+        "docs": {
+            "files/input/folder1/file4.html": 3
+        }
+    },
+    {
+        "term": "baltag",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "pornest",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "urme",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "intreab",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "localn",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "afla",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "cumpar",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "sut",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "vatr",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "dorne",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "impreun",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "munten",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "caror",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "vand",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "ajung",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "suh",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "ajuns",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "aic",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "deduc",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "sabah",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "loc",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "crim",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "cain",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "gasit",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "curt",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "conduc",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "rap",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "zac",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "femei",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "ocup",
+        "docs": {
+            "files/input/folder1/file4.html": 2
+        }
+    },
+    {
+        "term": "inmormant",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "acas",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "domn",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "tom",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "relateaz",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "petrec",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "omor",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "uimir",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "bogz",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "careis",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "recunoast",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "fapt",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "infig",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "frunt",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "razbunandu",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "tatal",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "ilie",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "cutu",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "demasc",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "aflar",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "adevar",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "intoarc",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "magur",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "datin",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "crestinest",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    },
+    {
+        "term": "memor",
+        "docs": {
+            "files/input/folder1/file4.html": 1
+        }
+    }
+]
