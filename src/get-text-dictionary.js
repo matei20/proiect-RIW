@@ -3,7 +3,7 @@ const stopWordsJson = fs.readFileSync('./stop-words.json');
 const stopWords = JSON.parse(stopWordsJson);
 const snowball = require('node-snowball');
 
-snowball.stemword(['consignment', 'conspiring'], 'english');
+//snowball.stemword(['consignment', 'conspiring'], 'english');
 
 const getTextDictionary = (docText) => {
     return docText
