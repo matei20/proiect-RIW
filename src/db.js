@@ -42,7 +42,14 @@ class Db {
 
         return this.db
             .collection(kIndirectIndexCollection)
-            .find({ $text: { $search: terms } })
+            .aggregate([
+                { $match: { $text: { $search: terms } } },
+                { $unwind: "$docs" },
+                { $group: { _id: "$docs.d", count: { $sum: "$docs.c" } } },
+                { $project: { _id: 0, link: "$_id", count: "$count" } },
+                { $sort: { count: -1 } },
+                { $limit: 10 },
+            ])
             .toArray();
 
     }

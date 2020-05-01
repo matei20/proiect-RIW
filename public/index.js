@@ -8,11 +8,10 @@ buttonSearch.onclick = async () => {
     const result = await fetch(url).then((r) => r.json());
     console.log(result);
     result.forEach(t => {
-        resultsSection.innerHTML += `<p>${t.term}:</p> `;
+        resultsSection.innerHTML += `<p>
+            <a href="static/${t.link}">${t.link}</a>
+        </p>`;
 
-        t.docs.forEach((d) => {
-            resultsSection.innerHTML += `<div><a href = "static/${d.d}">${d.d}</a></div> `;
-        });
     });
     //console.log(result); //debugging
 
