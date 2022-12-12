@@ -19,7 +19,7 @@
   "homepage": "https://github.com/matei20/proiect-RIW#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.5.5",
     "node-snowball": "^0.4.0"
   },
